@@ -1,0 +1,5 @@
+{
+  "name": "MUI Complex Forms",
+  "description": "A showcase of complex, multi-step, and dynamic forms using Material UI, React Hook Form, and Zod, complete with Jest/RTL test setups.",
+  "requestFramePermissions": []
+}

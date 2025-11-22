@@ -1,0 +1,30 @@
+{
+  "name": "mui-complex-forms",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "zod": "^4.1.12",
+    "react": "^19.2.0",
+    "@testing-library/react": "^16.3.0",
+    "@mui/material": "^7.3.5",
+    "@hookform/resolvers": "^5.2.2",
+    "react-hook-form": "^7.66.1",
+    "react-dom": "^19.2.0",
+    "@jest/globals": "^30.2.0",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@mui/icons-material": "^7.3.5",
+    "@testing-library/user-event": "^14.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
